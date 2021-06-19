@@ -12,3 +12,12 @@
 - Pandas and Numpy 
 - Matplotlib
 
+## Install jupyter notebooks using pip 
+```shell script
+pip install notebook
+```
+
+## Running the notebook
+```shell script
+jupyter notebook
+```
